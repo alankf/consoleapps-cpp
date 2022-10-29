@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NumeroSecreto", "NumeroSecreto\NumeroSecreto.vcxproj", "{661B85F8-6B30-4810-80DD-3F232CA02BDB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ContadorDeLetras", "ContadorDeLetras\ContadorDeLetras.vcxproj", "{A488D577-92B0-4704-83C6-3FA4758FA7A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{661B85F8-6B30-4810-80DD-3F232CA02BDB}.Release|x64.Build.0 = Release|x64
 		{661B85F8-6B30-4810-80DD-3F232CA02BDB}.Release|x86.ActiveCfg = Release|Win32
 		{661B85F8-6B30-4810-80DD-3F232CA02BDB}.Release|x86.Build.0 = Release|Win32
+		{A488D577-92B0-4704-83C6-3FA4758FA7A5}.Debug|x64.ActiveCfg = Debug|x64
+		{A488D577-92B0-4704-83C6-3FA4758FA7A5}.Debug|x64.Build.0 = Debug|x64
+		{A488D577-92B0-4704-83C6-3FA4758FA7A5}.Debug|x86.ActiveCfg = Debug|Win32
+		{A488D577-92B0-4704-83C6-3FA4758FA7A5}.Debug|x86.Build.0 = Debug|Win32
+		{A488D577-92B0-4704-83C6-3FA4758FA7A5}.Release|x64.ActiveCfg = Release|x64
+		{A488D577-92B0-4704-83C6-3FA4758FA7A5}.Release|x64.Build.0 = Release|x64
+		{A488D577-92B0-4704-83C6-3FA4758FA7A5}.Release|x86.ActiveCfg = Release|Win32
+		{A488D577-92B0-4704-83C6-3FA4758FA7A5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
